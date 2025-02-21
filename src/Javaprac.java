@@ -35,7 +35,14 @@ public class Javaprac {
 		
 System.out.println("Heloooooo git demo commit");
 System.out.println("Heloooooo git demo commit testtesttest");
-        
+
+	}
+	
+	public void develop_added1() {
+		
+	}
+public void develop_added2() {
+		
 	}
 
 }
